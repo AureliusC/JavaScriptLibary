@@ -92,6 +92,4 @@ console.log(typeof fredo);
     
     
 
-
-
-
+    
